@@ -1,0 +1,51 @@
+Step 1: Create cool name
+
+Meeting Format: 
+	Group admin (15 - 30 min)
+		- Club business 
+		- Current and upcoming scheduling 
+		- Local events
+	Unscheduled content (15 - 45 min)
+		- Q + A
+		- "Standard Module of the Week" 
+			+ Cycle through all of the modules in the standard lib 
+			+ Short presentation overview, use cases, and demo 
+		- Lightning talks 
+			+ Request beforehand 
+			+ Supply slide deck/videos 
+			+ Time limit 
+			+ Scheduling priority
+		- "Show and Tell" 
+			+ demo projects 
+			+ present items of general interest
+	Scheduled Content (30-60 min)
+		- Tutorial/Lecture 
+			+ Longer (30-60 min) presentation 
+			+ Include content for beginner 
+				= Supply context for beginners even on advanced topics 
+	Open Session (1-3 hours) 
+		- Work on projects 
+		- Offer help from experienced members
+		- Troubleshooting
+		- Practice tutorials 
+		
+Additional Events: 
+	Start/contribute to open source project 
+	Sprints sessions 
+	Conference attendance
+	
+Suggested tutorials: 
+	Introduction to Python 
+		- Anaconda, IPython, Jupyter Notebook 
+	Intro to Git 
+	SciPy/Numpy, Pyplot, PIL 
+	Data Visualization 
+	Data with Python 
+		- pandas, etc
+	Intermediate, Advanced Python 
+	Multithreading 
+	Network apps 
+	Raspberry Pi projects 
+	Functional programming 
+	Python to generate markup e.g. LaTeX, SVG, MathML 
+	Python APIs, e.g. Cython, Clojure
