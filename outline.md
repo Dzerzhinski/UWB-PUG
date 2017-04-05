@@ -48,12 +48,12 @@ Additional Events
 Suggested tutorials
 -------------------
 * Introduction to Python 
-    + IDE: [Anaconda](https://www.continuum.io/anaconda-overview), [IPython](https://ipython.org/), [Jupyter Notebook](http://jupyter.org/)
+    + IDE: [Anaconda][1], [IPython][2], [Jupyter Notebook][3]
 * Intro to Git 
-* [SciPy](https://www.scipy.org/)/[Numpy](http://www.numpy.org/), [Pyplot](http://matplotlib.org/), [PIL](http://www.pythonware.com/products/pil/) 
+* [SciPy][4]/[Numpy][5], [Pyplot][6], [PIL][7] 
 * Data Visualization 
 * Data with Python 
-    - [pandas](http://pandas.pydata.org/), etc
+    - [pandas][8], etc
 * Intermediate, Advanced Python 
 * Multithreading 
 * Network apps 
@@ -62,3 +62,11 @@ Suggested tutorials
 * Python to generate markup e.g. LaTeX, SVG, MathML 
 * Python APIs, e.g. Cython, Clojure
     
+[1]: https://www.continuum.io/anaconda-overview 
+[2]: https://ipython.org/ 
+[3]: http://jupyter.org/ 
+[4]: https://www.scipy.org/
+[5]: http://www.numpy.org/
+[6]: http://matplotlib.org/
+[7]: http://www.pythonware.com/products/pil 
+[8]: http://pandas.pydata.org/
