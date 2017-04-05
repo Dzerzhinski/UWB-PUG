@@ -1,6 +1,7 @@
  Step 1: Create cool name 
  ------------------------
- * Husky PUG?
+ * Husky PUG? 
+ * Python HUG (Husky User Group)?
 
 Meeting Format
 --------------
